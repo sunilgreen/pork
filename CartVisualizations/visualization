@@ -1,0 +1,21 @@
+digraph Tree {
+node [shape=box, style="filled", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="State_WV <= 0.5\ngini = 0.135\nsamples = 55\nvalue = [51, 4]\nclass = Is Pork", fillcolor="#e78b49"] ;
+1 [label="State_MN <= 0.5\ngini = 0.105\nsamples = 54\nvalue = [51, 3]\nclass = Is Pork", fillcolor="#e78845"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="State_MS <= 0.5\ngini = 0.073\nsamples = 53\nvalue = [51, 2]\nclass = Is Pork", fillcolor="#e68641"] ;
+1 -> 2 ;
+3 [label="State_CA <= 0.5\ngini = 0.038\nsamples = 52\nvalue = [51, 1]\nclass = Is Pork", fillcolor="#e6833d"] ;
+2 -> 3 ;
+4 [label="gini = 0.0\nsamples = 43\nvalue = [43, 0]\nclass = Is Pork", fillcolor="#e58139"] ;
+3 -> 4 ;
+5 [label="gini = 0.198\nsamples = 9\nvalue = [8, 1]\nclass = Is Pork", fillcolor="#e89152"] ;
+3 -> 5 ;
+6 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = Is Not Pork", fillcolor="#399de5"] ;
+2 -> 6 ;
+7 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = Is Not Pork", fillcolor="#399de5"] ;
+1 -> 7 ;
+8 [label="gini = 0.0\nsamples = 1\nvalue = [0, 1]\nclass = Is Not Pork", fillcolor="#399de5"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}
