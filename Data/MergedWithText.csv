@@ -1,5 +1,5 @@
 ID,Description,State,Party,Text,is_pork
-p1,AC Transit BRT Corridor,CA,D,"Capital Investment Grants
+p1,AC Transit BRT Corridor,CA,1,"Capital Investment Grants
 
 
     For necessary expenses to carry out section 5309 of title 49, United 
@@ -101,7 +101,7 @@ be made available as follows:
         Virginia, $490,000.
             VRE Rolling Stock, Virginia, $3,920,000.
             Weber County to Salt Lake City, Utah, $78,400,000.",1
-p2,Central Corridor Light Rail,MN,D,"Capital Investment Grants
+p2,Central Corridor Light Rail,MN,1,"Capital Investment Grants
 
 
     For necessary expenses to carry out section 5309 of title 49, United 
@@ -203,7 +203,7 @@ be made available as follows:
         Virginia, $490,000.
             VRE Rolling Stock, Virginia, $3,920,000.
             Weber County to Salt Lake City, Utah, $78,400,000.",1
-p3,University of Mississippi Music Archive,MS,R,"Salaries and Expenses
+p3,University of Mississippi Music Archive,MS,0,"Salaries and Expenses
 
     For necessary expenses of the Library of Congress not otherwise 
 provided for, including development and maintenance of the Library's 
@@ -256,7 +256,7 @@ to the Middle Eastern Text Initiative for translation and publishing of
 middle <<NOTE: Grants.>> eastern text: Provided further, That $125,000 
 shall be used to provide a grant to the University of Mississippi for 
 the American Music Archives.",1
-p4,Greenbrier River Basin,WV,D,"Construction
+p4,Greenbrier River Basin,WV,1,"Construction
 
 
                     (including rescissions of funds)
@@ -361,54 +361,54 @@ this heading the following amounts are rescinded: from Public Law 101-
 101, $435,000; from Public Law 102-377, $1,740,000; from Public Law 103-
 126, $797,000; and from Public Law 105-245, $1,716,000.
 ",1
-hr1000-110,Commemorations,DC,D,,0
-hr1001-110,Foreign Trade and International Finance,SC,D,,0
-hr1002-110,Foreign Trade and International Finance,SC,D,,0
-hr1003-110,International Affairs,CA,D,,0
-hr1004-110,Crime and Law Enforcement,CA,D,,0
-hr1005-110,Private Legislation,TX,D,,0
-hr1006-110,Public Lands and Natural Resources,AK,R,,0
-hr1007-110,Public Lands and Natural Resources,AK,R,,0
-hr1008-110,"Science, Technology, Communications",IL,D,,0
-hr1009-110,Crime and Law Enforcement,TX,R,,0
-hr1010-110,Education,CA,D,,0
-hr1011-110,Public Lands and Natural Resources,VA,D,,0
-hr1012-110,Commerce,FL,R,,0
-hr1013-110,Health,TX,R,,0
-hr1014-110,Health,CA,D,,0
-hr1015-110,Transportation and Public Works,MA,D,,0
-hr1016-110,Public Lands and Natural Resources,MA,D,,0
-hr1017-110,Health,MI,D,,0
-hr1018-110,Agriculture and Food,MO,R,,0
-hr1019-110,Commemorations,PR,R,,0
-hr1020-110,Emergency Management,NY,R,,0
-hr1021-110,Public Lands and Natural Resources,MA,D,,0
-hr1022-110,Crime and Law Enforcement,NY,D,,0
-hr1023-110,Taxation,FL,D,,0
-hr1024-110,Commemorations,FL,R,,0
-hr1025-110,Water Resources Development,KS,R,,0
-hr1026-110,International Affairs,KS,R,,0
-hr1027-110,Government Operations and Politics,PA,D,,0
-hr1028-110,Crime and Law Enforcement,CO,D,,0
-hr1029-110,Commerce,FL,R,,0
-hr1030-110,Health,CA,D,,0
-hr1031-110,Health,CA,D,,0
-hr1032-110,Health,CA,D,,0
-hr1033-110,Transportation and Public Works,NY,D,,0
-hr1034-110,Armed Forces and National Security,SC,R,,0
-hr1035-110,Taxation,SC,R,,0
-hr1036-110,Public Lands and Natural Resources,AK,R,,0
-hr1037-110,Private Legislation,CO,D,,0
-hr1038-110,Health,CA,D,,0
-hr1039-110,Public Lands and Natural Resources,OK,R,,0
-hr1040-110,Taxation,TX,R,,0
-hr1041-110,Armed Forces and National Security,NJ,R,,0
-hr1042-110,Foreign Trade and International Finance,TX,R,,0
-hr1043-110,Taxation,OH,D,,0
-hr1044-110,Commerce,LA,R,,0
-hr1045-110,Commemorations,IA,D,,0
-hr1046-110,Health,TX,R,,0
-hr1047-110,Public Lands and Natural Resources,MO,D,,0
-hr1048-110,Government Operations and Politics,NJ,R,,0
-hr1049-110,Finance and Financial Sector,NJ,R,,0
+hr1000-110,Commemorations,DC,1,"""""",0
+hr1001-110,Foreign Trade and International Finance,SC,1,"""""",0
+hr1002-110,Foreign Trade and International Finance,SC,1,"""""",0
+hr1003-110,International Affairs,CA,1,"""""",0
+hr1004-110,Crime and Law Enforcement,CA,1,"""""",0
+hr1005-110,Private Legislation,TX,1,"""""",0
+hr1006-110,Public Lands and Natural Resources,AK,0,"""""",0
+hr1007-110,Public Lands and Natural Resources,AK,0,"""""",0
+hr1008-110,"Science, Technology, Communications",IL,1,"""""",0
+hr1009-110,Crime and Law Enforcement,TX,0,"""""",0
+hr1010-110,Education,CA,1,"""""",0
+hr1011-110,Public Lands and Natural Resources,VA,1,"""""",0
+hr1012-110,Commerce,FL,0,"""""",0
+hr1013-110,Health,TX,0,"""""",0
+hr1014-110,Health,CA,1,"""""",0
+hr1015-110,Transportation and Public Works,MA,1,"""""",0
+hr1016-110,Public Lands and Natural Resources,MA,1,"""""",0
+hr1017-110,Health,MI,1,"""""",0
+hr1018-110,Agriculture and Food,MO,0,"""""",0
+hr1019-110,Commemorations,PR,0,"""""",0
+hr1020-110,Emergency Management,NY,0,"""""",0
+hr1021-110,Public Lands and Natural Resources,MA,1,"""""",0
+hr1022-110,Crime and Law Enforcement,NY,1,"""""",0
+hr1023-110,Taxation,FL,1,"""""",0
+hr1024-110,Commemorations,FL,0,"""""",0
+hr1025-110,Water Resources Development,KS,0,"""""",0
+hr1026-110,International Affairs,KS,0,"""""",0
+hr1027-110,Government Operations and Politics,PA,1,"""""",0
+hr1028-110,Crime and Law Enforcement,CO,1,"""""",0
+hr1029-110,Commerce,FL,0,"""""",0
+hr1030-110,Health,CA,1,"""""",0
+hr1031-110,Health,CA,1,"""""",0
+hr1032-110,Health,CA,1,"""""",0
+hr1033-110,Transportation and Public Works,NY,1,"""""",0
+hr1034-110,Armed Forces and National Security,SC,0,"""""",0
+hr1035-110,Taxation,SC,0,"""""",0
+hr1036-110,Public Lands and Natural Resources,AK,0,"""""",0
+hr1037-110,Private Legislation,CO,1,"""""",0
+hr1038-110,Health,CA,1,"""""",0
+hr1039-110,Public Lands and Natural Resources,OK,0,"""""",0
+hr1040-110,Taxation,TX,0,"""""",0
+hr1041-110,Armed Forces and National Security,NJ,0,"""""",0
+hr1042-110,Foreign Trade and International Finance,TX,0,"""""",0
+hr1043-110,Taxation,OH,1,"""""",0
+hr1044-110,Commerce,LA,0,"""""",0
+hr1045-110,Commemorations,IA,1,"""""",0
+hr1046-110,Health,TX,0,"""""",0
+hr1047-110,Public Lands and Natural Resources,MO,1,"""""",0
+hr1048-110,Government Operations and Politics,NJ,0,"""""",0
+hr1049-110,Finance and Financial Sector,NJ,0,"""""",0
 ,,,,,0
