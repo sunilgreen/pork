@@ -1,0 +1,469 @@
+ID,Final Amount,State,Bill,Bill Section,is_pork
+2,"$3,724,000",MS,Ag-Rural Development-FDA,General Provisions,1
+3,"$2,780,000",MS,Ag-Rural Development-FDA,Agriculture,1
+4,"$1,075,000",MS,Ag-Rural Development-FDA,Conservation Programs,1
+5,"$849,000",MS,Ag-Rural Development-FDA,Agriculture,1
+6,"$846,000",PA,"Commerce, Justice & Science",Department of Justice,1
+7,"$235,000",NY,"Commerce, Justice & Science",Department of Commerce,1
+8,"$705,000",PA,"Commerce, Justice & Science",Department of Justice,1
+9,"$893,000",NY,"Commerce, Justice & Science",Department of Justice,1
+10,"$446,500",AR,"Commerce, Justice & Science",Department of Commerce,1
+11,"$4,500,000",FL,Defense,RDTE,1
+12,"$4,800,000",NY,Defense,General Provisions,1
+13,"$3,000,000",HI,Defense,Drug Interdiction and Counter-Drug Activity,1
+14,"$54,000,000",WV,Defense,Weapons Procurement,1
+15,"$1,600,000",CA,Defense,RDTE,1
+16,"$4,500,000",FL,Defense,RDTE,1
+17,"$3,000,000",FL,Defense,Drug Interdiction and Counter-Drug Activity,1
+18,"$590,000",NV,Energy & Water,Department of Energy,1
+19,"$492,000",OH,Energy & Water,Department of Energy,1
+20,"$492,000",CO,Energy & Water,Legacy Management,1
+21,"$197,000",IL,Energy & Water,Department of Energy,1
+22,"$500,000",DC,Financial Services,District of Columbia,1
+23,"$150,000",NY,Homeland Security,U.S. Citizen and Immigration Services,1
+24,"$3,000,000",SC,Homeland Security,Federal Emergency Management Agency,1
+25,"$50,000",GA,Homeland Security,Federal Emergency Management Agency,1
+26,"$1,647,000",WV,Interior,Forest Service,1
+27,"$221,000",KS,Interior,National Park Service,1
+28,"$8,930,215",AL,Labor-HHS-Education,Department of Health and Human Services,1
+29,"$85,480",VA,Labor-HHS-Education,Department of Health and Human Services,1
+30,"$1,436,459",IA,Labor-HHS-Education,Department of Health and Human Services,1
+31,"$310,479",IA; PA,Labor-HHS-Education,Department of Health and Human Services,1
+32,"$335,043",GA,Labor-HHS-Education,Related Agencies,1
+33,"$286,899",IA,Labor-HHS-Education,Related Agencies,1
+34,"$202,401",UT,Labor-HHS-Education,Related Agencies,1
+35,"$125,000",MS,Legislative Branch,Library of Congress,1
+36,"$750,000",RI,Military Construction,Military Construction Project Listing,1
+37,"$183,750",MO,Transportation and Housing & Urban Development,HUD,1
+38,"$1,470,000",MA,Transportation and Housing & Urban Development,Transportation,1
+39,"$98,000",TX,Transportation and Housing & Urban Development,HUD,1
+40,"$65,465,000",INT,State-Foreign Ops,Department of State,1
+41,"$71,000",IL,Ag-Rural Development-FDA,Agriculture,0
+42,"$206,000",HI,Ag-Rural Development-FDA,Conservation Programs,0
+43,"$71,000",HI,Ag-Rural Development-FDA,Conservation Programs,0
+44,"$71,000",TX,Ag-Rural Development-FDA,Agriculture,0
+45,"$1,870,000",NY,Ag-Rural Development-FDA,Agriculture,0
+46,"$656,000",AK,Ag-Rural Development-FDA,Conservation Programs,0
+47,"$229,000",MS,Ag-Rural Development-FDA,Agriculture,0
+48,"$535,000",MO,Ag-Rural Development-FDA,Conservation Programs,0
+49,"$4,424,000",UNK,Ag-Rural Development-FDA,Rural Development Programs,0
+50,"$187,000",UT,Ag-Rural Development-FDA,Agriculture,0
+51,"$2,666,000",IL,Ag-Rural Development-FDA,Agriculture,0
+52,"$104,000",WA,Ag-Rural Development-FDA,Agriculture,0
+53,"$1,544,000",OH,Ag-Rural Development-FDA,Agriculture,0
+54,"$387,000",MD,Ag-Rural Development-FDA,Agriculture,0
+55,"$237,000",WA,Ag-Rural Development-FDA,Agriculture,0
+56,"$149,000",FL,Ag-Rural Development-FDA,Agriculture,0
+57,"$430,000",IL,Ag-Rural Development-FDA,Agriculture,0
+58,"$710,000",OH,Ag-Rural Development-FDA,Agriculture,0
+59,"$406,000",WI,Ag-Rural Development-FDA,Agriculture,0
+60,"$249,000",WA,Ag-Rural Development-FDA,Agriculture,0
+61,"$1,057,000",AR; IA; KS,Ag-Rural Development-FDA,Agriculture,0
+62,"$291,000",IA,"Commerce, Justice & Science",Department of Justice,0
+63,"$282,000",SC,"Commerce, Justice & Science",Department of Justice,0
+64,"$70,500",CA,"Commerce, Justice & Science",Department of Justice,0
+65,"$399,500",NY,"Commerce, Justice & Science",Department of Justice,0
+66,"$235,000",UNK,"Commerce, Justice & Science",Department of Commerce,0
+67,"$223,250",CT,"Commerce, Justice & Science",Department of Justice,0
+68,"$940,000",NY,"Commerce, Justice & Science",Department of Commerce,0
+69,"$1,410,000",AK,"Commerce, Justice & Science",Department of Justice,0
+70,"$47,000",IL,"Commerce, Justice & Science",Department of Justice,0
+71,"$1,222,000",PA,"Commerce, Justice & Science",Department of Justice,0
+72,"$282,000",IL,"Commerce, Justice & Science",Department of Justice,0
+73,"$47,000",MO,"Commerce, Justice & Science",Department of Justice,0
+74,"$188,000",RI,"Commerce, Justice & Science",Department of Justice,0
+75,"$47,000",CA,"Commerce, Justice & Science",Department of Justice,0
+76,"$164,500",NY,"Commerce, Justice & Science",Department of Justice,0
+77,"$681,500",CA,"Commerce, Justice & Science",Department of Justice,0
+78,"$352,500",CO,"Commerce, Justice & Science",Department of Justice,0
+79,"$200,000",IL,"Commerce, Justice & Science",Department of Justice,0
+80,"$352,500",MI,"Commerce, Justice & Science",Department of Justice,0
+81,"$352,500",NC,"Commerce, Justice & Science",Department of Justice,0
+82,"$352,500",CA,"Commerce, Justice & Science",Department of Justice,0
+83,"$39,480",WV,"Commerce, Justice & Science",Department of Justice,0
+84,"$400,000",VT,"Commerce, Justice & Science",Department of Commerce,0
+85,"$223,250",MN,"Commerce, Justice & Science",Department of Justice,0
+86,"$329,000",WA,"Commerce, Justice & Science",Department of Justice,0
+87,"$651,420",MI,"Commerce, Justice & Science",Department of Justice,0
+88,"$117,500",MO,"Commerce, Justice & Science",Department of Justice,0
+89,"$28,200",AL,"Commerce, Justice & Science",Department of Justice,0
+90,"$94,000",NJ,"Commerce, Justice & Science",Department of Justice,0
+91,"$329,000",CT,"Commerce, Justice & Science",Department of Justice,0
+92,"$94,000",NJ,"Commerce, Justice & Science",Department of Justice,0
+93,"$23,500",WV,"Commerce, Justice & Science",Department of Justice,0
+94,"$141,000",IA,"Commerce, Justice & Science",Department of Justice,0
+95,"$470,000",PA,"Commerce, Justice & Science",Department of Justice,0
+96,"$1,600,000",UNK,Defense,RDTE,0
+97,"$1,000,000",CA,Defense,Operation and Maintenance,0
+98,"$1,600,000",UNK,Defense,Operation and Maintenance,0
+99,"$3,200,000",PA,Defense,Procurement of Ammunition,0
+100,"$1,600,000",MA,Defense,RDTE,0
+101,"$1,000,000",UNK,Defense,Defense Health Program,0
+102,"$1,600,000",AZ,Defense,RDTE,0
+103,"$2,500,000",MI,Defense,RDTE,0
+104,"$1,800,000",GA,Defense,Other Procurement,0
+105,"$3,200,000",IL,Defense,RDTE,0
+106,"$1,600,000",MI,Defense,RDTE,0
+107,"$1,600,000",UNK,Defense,RDTE,0
+108,"$1,000,000",UNK,Defense,RDTE,0
+109,"$265,000",MO,Defense,Operation and Maintenance,0
+110,"$3,600,000",UNK,Defense,Procurement,0
+111,"$1,600,000",IN,Defense,RDTE,0
+112,"$800,000",UNK,Defense,RDTE,0
+113,"$2,000,000",FL,Defense,RDTE,0
+114,"$3,000,000",UNK,Defense,Defense Production Act,0
+115,"$1,000,000",KS,Defense,Aircraft Procurement,0
+116,"$800,000",NY,Defense,RDTE,0
+117,"$1,000,000",IL,Defense,RDTE,0
+118,"$2,400,000",PA,Defense,Procurement,0
+119,"$3,200,000",CA,Defense,RDTE,0
+120,"$1,000,000",FL,Defense,Defense Health Program,0
+121,"$1,600,000",UNK,Defense,RDTE,0
+122,"$1,600,000",IN,Defense,RDTE,0
+123,"$20,000,000",UNK,Defense,RDTE,0
+124,"$2,000,000",VA,Defense,RDTE,0
+125,"$2,000,000",OH,Defense,Operation and Maintenance,0
+126,"$3,200,000",WA,Defense,Operation and Maintenance,0
+127,"$10,000,000",UNK,Defense,General Provisions,0
+128,"$1,000,000",MN,Defense,RDTE,0
+129,"$1,000,000",CA,Defense,RDTE,0
+130,"$2,000,000",UNK,Defense,RDTE,0
+131,"$2,000,000",IN,Defense,Operation and Maintenance,0
+132,"$4,400,000",FL,Defense,RDTE,0
+133,"$3,200,000",UNK,Defense,RDTE,0
+134,"$1,900,000",UNK,Defense,RDTE,0
+135,"$2,800,000",UNK,Defense,RDTE,0
+136,"$8,000,000",UNK,Defense,RDTE,0
+137,"$4,000,000",MI,Defense,RDTE,0
+138,"$1,600,000",PA,Defense,Other Procurement,0
+139,"$800,000",PA,Defense,RDTE,0
+140,"$1,600,000",UNK,Defense,RDTE,0
+141,"$2,400,000",VA,Defense,Operation and Maintenance,0
+142,"$1,200,000",OH,Defense,RDTE,0
+143,"$4,500,000",WI,Defense,RDTE,0
+144,"$1,000,000",UNK,Defense,RDTE,0
+145,"$3,200,000",NY,Defense,Other Procurement,0
+146,"$2,400,000",PA,Defense,RDTE,0
+147,"$800,000",PA,Defense,Other Procurement,0
+148,"$1,600,000",CA,Defense,RDTE,0
+149,"$1,520,000",AL; TN,Defense,RDTE,0
+150,"$286,899",KY,Labor-HHS-Education,Department of Health and Human Services,0
+151,"$5,600,000",UNK,Defense,RDTE,0
+152,"$403,000",CA,Energy & Water,Corps of Engineers,0
+153,$0,NY,Energy & Water,Corps of Engineers,0
+154,"$1,609,000",CA,Energy & Water,Corps of Engineers,0
+155,"$492,000",NV,Energy & Water,Department of Energy,0
+156,"$984,000",CA,Energy & Water,Bureau of Reclamation,0
+157,$0,NM,Energy & Water,Corps of Engineers,0
+158,"$467,000",OH,Energy & Water,Corps of Engineers,0
+159,"$1,690,000",AZ,Energy & Water,Corps of Engineers,0
+160,"$7,515,000",NM,Energy & Water,Corps of Engineers,0
+161,$0,NY,Energy & Water,Corps of Engineers,0
+162,"$984,000",NY,Energy & Water,Department of Energy,0
+163,"$1,546,000",KY,Energy & Water,Corps of Engineers,0
+164,"$148,000",AK,Energy & Water,Department of Energy,0
+165,"$9,840,000",MT,Energy & Water,Bureau of Reclamation,0
+166,"$1,728,000",KY,Energy & Water,Corps of Engineers,0
+167,$0,SD,Energy & Water,Corps of Engineers,0
+168,"$123,000",CA,Energy & Water,Bureau of Reclamation,0
+169,"$2,315,000",CA,Energy & Water,Corps of Engineers,0
+170,"$7,872,000",WI,Energy & Water,Corps of Engineers,0
+171,"$24,000",NJ,Energy & Water,Corps of Engineers,0
+172,"$1,898,000",VA,Energy & Water,Corps of Engineers,0
+173,"$1,626,000",VA,Energy & Water,Corps of Engineers,0
+174,"$984,000",IN; KY,Energy & Water,Corps of Engineers,0
+175,"$550,000",NE,Energy & Water,Corps of Engineers,0
+176,"$340,000",CA,Energy & Water,Corps of Engineers,0
+177,"$2,985,000",IL,Energy & Water,Corps of Engineers,0
+178,"$246,000",MD,Energy & Water,Department of Energy,0
+179,"$4,907,000",CO,Energy & Water,Bureau of Reclamation,0
+180,"$900,000",AZ,Energy & Water,Bureau of Reclamation,0
+181,"$475,000",MO,Energy & Water,Corps of Engineers,0
+182,"$256,000",HI,Energy & Water,Corps of Engineers,0
+183,"$98,000",NJ,Energy & Water,Corps of Engineers,0
+184,$0,CA,Energy & Water,Bureau of Reclamation,0
+185,"$86,000",CA,Energy & Water,Corps of Engineers,0
+186,"$21,532,000",CA,Energy & Water,Corps of Engineers,0
+187,"$2,952,000",CA,Energy & Water,Bureau of Reclamation,0
+188,"$130,000",AR; KS; OK,Energy & Water,Corps of Engineers,0
+189,"$2,865,000",TX,Energy & Water,Corps of Engineers,0
+190,"$538,000",PA,Energy & Water,Corps of Engineers,0
+191,"$3,112,000",CA,Energy & Water,Corps of Engineers,0
+192,"$492,000",PA,Energy & Water,Corps of Engineers,0
+193,$0,IA,Energy & Water,Corps of Engineers,0
+194,"$5,480,000",IN,Energy & Water,Corps of Engineers,0
+195,"$1,492,000",KY,Energy & Water,Corps of Engineers,0
+196,"$5,904,000",MT,Energy & Water,Bureau of Reclamation,0
+197,"$4,182,000",CA,Energy & Water,Bureau of Reclamation,0
+198,"$10,298,000",CA,Energy & Water,Corps of Engineers,0
+199,"$689,000",CA,Energy & Water,Bureau of Reclamation,0
+200,"$2,867,000",NC,Energy & Water,Corps of Engineers,0
+201,"$11,857,000",TX,Energy & Water,Corps of Engineers,0
+202,"$334,000",CA,Energy & Water,Corps of Engineers,0
+203,"$1,813,000",FL,Energy & Water,Corps of Engineers,0
+204,"$1,476,000",IN,Energy & Water,Department of Energy,0
+205,$0,LA,Energy & Water,Corps of Engineers,0
+206,"$197,000",PA,Energy & Water,Corps of Engineers,0
+207,"$492,000",KY,Energy & Water,Department of Energy,0
+208,"$118,000",MD,Energy & Water,Corps of Engineers,0
+209,"$492,000",TX,Energy & Water,Department of Energy,0
+210,"$1,476,000",OH,Energy & Water,Department of Energy,0
+211,"$3,248,000",CA,Energy & Water,Corps of Engineers,0
+212,"$280,000",CA,Energy & Water,Corps of Engineers,0
+213,"$993,000",OK,Energy & Water,Corps of Engineers,0
+214,"$450,000",LA,Financial Services,Small Business Administration,0
+215,"$12,800,000",DC,Financial Services,General Services Administration,0
+216,"$282,000",IN,Financial Services,Small Business Administration,0
+217,"$400,000",OH,Financial Services,Small Business Administration,0
+218,"$23,284,000",TX,Financial Services,General Services Administration,0
+219,"$282,000",NY,Financial Services,Small Business Administration,0
+220,"$1,000,000",WV,Financial Services,Small Business Administration,0
+221,"$282,000",DC,Financial Services,District of Columbia,0
+222,"$282,000",MO,Financial Services,Small Business Administration,0
+223,"$125,000",NY,Financial Services,Small Business Administration,0
+224,"$182,000",MA,Financial Services,Small Business Administration,0
+225,"$282,000",TX,Financial Services,Small Business Administration,0
+226,"$150,000",NY,Financial Services,Small Business Administration,0
+227,"$132,000",DC,Financial Services,District of Columbia,0
+228,"$350,000",FL,Financial Services,Small Business Administration,0
+229,"$282,000",NY,Financial Services,Small Business Administration,0
+230,"$282,000",SC,Financial Services,Small Business Administration,0
+231,"$282,000",MI,Financial Services,Small Business Administration,0
+232,"$100,000",IA,Financial Services,Small Business Administration,0
+233,"$3,000,000",SC,Homeland Security,Federal Emergency Management Agency,0
+234,"$184,619",MD,Homeland Security,Federal Emergency Management Agency,0
+235,"$30,000",GA,Homeland Security,Federal Emergency Management Agency,0
+236,"$500,000",PA,Homeland Security,Federal Emergency Management Agency,0
+237,"$3,938,000",HI,Interior,Fish and Wildlife Service,0
+238,"$148,000",SC,Interior,National Park Service,0
+239,"$260,000",CA,Interior,Forest Service,0
+240,"$1,083,000",UT,Interior,Environmental Protection Agency,0
+241,"$135,000",ID,Interior,Environmental Protection Agency,0
+242,"$98,000",NV,Interior,Environmental Protection Agency,0
+243,"$788,000",PA,Interior,Environmental Protection Agency,0
+244,"$886,000",HI,Interior,Fish and Wildlife Service,0
+245,"$870,000",ID,Interior,Forest Service,0
+246,"$492,000",FL,Interior,Environmental Protection Agency,0
+247,"$492,000",TX,Interior,Fish and Wildlife Service,0
+248,"$345,000",MI,Interior,National Park Service,0
+249,"$98,000",MS,Interior,Environmental Protection Agency,0
+250,"$984,000",WV,Interior,Environmental Protection Agency,0
+251,"$2,166,000",ME; NH; NY; VT,Interior,Forest Service,0
+252,"$492,000",NM,Interior,Environmental Protection Agency,0
+253,"$591,000",Multi,Interior,Bureau of Indian Affairs,0
+254,"$1,231,000",MN,Interior,Forest Service,0
+255,"$492,000",TX,Interior,Environmental Protection Agency,0
+256,"$197,000",ND,Interior,Environmental Protection Agency,0
+257,"$118,886",CA,Labor-HHS-Education,Department of Health and Human Services,0
+258,"$85,480",PA,Labor-HHS-Education,Department of Health and Human Services,0
+259,"$95,305",OK,Labor-HHS-Education,Department of Education,0
+260,"$238,755",CT,Labor-HHS-Education,Department of Education,0
+261,"$478,492",PA,Labor-HHS-Education,Department of Education,0
+262,"$895,085",UNK,Labor-HHS-Education,Related Agencies,0
+263,"$95,305",OK,Labor-HHS-Education,Department of Health and Human Services,0
+264,"$240,720",MN,Labor-HHS-Education,Department of Health and Human Services,0
+265,"$95,305",NY,Labor-HHS-Education,Department of Health and Human Services,0
+266,"$286,899",KS,Labor-HHS-Education,Department of Health and Human Services,0
+267,"$95,305",CT,Labor-HHS-Education,Department of Education,0
+268,"$143,449",PA,Labor-HHS-Education,Related Agencies,0
+269,"$71,725",PA,Labor-HHS-Education,Department of Education,0
+270,"$148,362",WI,Labor-HHS-Education,Department of Health and Human Services,0
+271,"$191,593",CA,Labor-HHS-Education,Department of Education,0
+272,"$335,043",KS,Labor-HHS-Education,Department of Health and Human Services,0
+273,"$238,755",ID,Labor-HHS-Education,Related Agencies,0
+274,"$238,755",CA,Labor-HHS-Education,Department of Education,0
+275,"$81,550",OK,Labor-HHS-Education,Department of Health and Human Services,0
+276,"$79,585",MO,Labor-HHS-Education,Department of Education,0
+277,"$205,349",AR,Labor-HHS-Education,Department of Education,0
+278,"$95,305",OR,Labor-HHS-Education,Department of Education,0
+279,"$238,755",NJ,Labor-HHS-Education,Department of Labor,0
+280,"$215,174",NY,Labor-HHS-Education,Department of Education,0
+281,"$215,174",NY,Labor-HHS-Education,Department of Health and Human Services,0
+282,"$286,899",FL,Labor-HHS-Education,Department of Education,0
+283,"$306,549",FL,Labor-HHS-Education,Department of Health and Human Services,0
+284,"$238,755",KY,Labor-HHS-Education,Department of Health and Human Services,0
+285,"$335,043",WA,Labor-HHS-Education,Department of Education,0
+286,"$229,912",MA,Labor-HHS-Education,Department of Health and Human Services,0
+287,"$728,055",CA,Labor-HHS-Education,Department of Labor,0
+288,"$95,305",LA,Labor-HHS-Education,Department of Health and Human Services,0
+289,"$478,492",IL,Labor-HHS-Education,Department of Labor,0
+290,"$243,667",OR,Labor-HHS-Education,Department of Education,0
+291,"$95,305",TX,Labor-HHS-Education,Department of Labor,0
+292,"$191,593",NV,Labor-HHS-Education,Department of Health and Human Services,0
+293,"$238,755",SC,Labor-HHS-Education,Department of Education,0
+294,"$310,479",IA; PA,Labor-HHS-Education,Department of Health and Human Services,0
+295,"$133,624",WA,Labor-HHS-Education,Department of Labor,0
+296,"$263,318",FL,Labor-HHS-Education,Department of Health and Human Services,0
+297,"$383,187",CA,Labor-HHS-Education,Department of Health and Human Services,0
+298,"$47,161",NM,Labor-HHS-Education,Department of Education,0
+299,"$263,318",NJ,Labor-HHS-Education,Department of Health and Human Services,0
+300,"$143,449",WI,Labor-HHS-Education,Department of Health and Human Services,0
+301,"$335,043",MO,Labor-HHS-Education,Department of Health and Human Services,0
+302,"$181,768",OH,Labor-HHS-Education,Department of Education,0
+303,"$242,685",UT,Labor-HHS-Education,Related Agencies,0
+304,"$181,768",MO,Labor-HHS-Education,Department of Education,0
+305,"$131,659",ME,Labor-HHS-Education,Department of Health and Human Services,0
+306,"$286,899",TN,Labor-HHS-Education,Department of Health and Human Services,0
+307,"$478,492",TN,Labor-HHS-Education,Department of Health and Human Services,0
+308,"$421,505",CO,Labor-HHS-Education,Department of Health and Human Services,0
+309,"$191,593",AK,Labor-HHS-Education,Department of Health and Human Services,0
+310,"$80,567",OR,Labor-HHS-Education,Department of Health and Human Services,0
+311,"$191,593",VT,Labor-HHS-Education,Department of Education,0
+312,"$71,725",PA,Labor-HHS-Education,Department of Labor,0
+313,"$13,951,926",HI,Labor-HHS-Education,Department of Health and Human Services,0
+314,"$238,755",WA,Labor-HHS-Education,Department of Education,0
+315,"$718,229",NM,Labor-HHS-Education,Department of Health and Human Services,0
+316,"$71,725",WI,Labor-HHS-Education,Related Agencies,0
+317,"$50,000",UNK,Legislative Branch,Library of Congress,0
+318,"$430,000",MS,Legislative Branch,Administrative Provisions,0
+319,"$22,100,000",CA,Military Construction,BRAC Projects 2005,0
+320,"$25,000,000",SC,Military Construction,BRAC Projects 2005,0
+321,"$88,000,000",NC,Military Construction,Military Construction Project Listing,0
+322,"$22,220,000",CA,Military Construction,Military Construction Project Listing,0
+323,"$11,600,000",AK,Military Construction,Military Construction Project Listing,0
+324,"$18,160,000",CA,Military Construction,Military Construction Project Listing,0
+325,"$9,170,000",NC,Military Construction,Military Construction Project Listing,0
+326,"$9,400,000",PA,Military Construction,Military Construction Project Listing,0
+327,"$16,500,000",HI,Military Construction,Military Construction Project Listing,0
+328,"$5,000,000",VA,Military Construction,Military Construction Project Listing,0
+329,"$10,600,000",IL,Military Construction,BRAC Projects 2005,0
+330,"$8,150,000",CA,Military Construction,Military Construction Project Listing,0
+331,"$36,000,000",AK,Military Construction,Military Construction Project Listing,0
+332,"$12,000,000",WV,Military Construction,Military Construction Project Listing,0
+333,"$7,300,000",MA,Military Construction,Military Construction Project Listing,0
+334,"$7,600,000",WV,Military Construction,Military Construction Project Listing,0
+335,"$16,840,000",CA,Military Construction,Military Construction Project Listing,0
+336,"$1,500,000",TN,Military Construction,Military Construction Project Listing,0
+337,"$102,000,000",WA,Military Construction,Military Construction Project Listing,0
+338,"$3,200,000",TN,Military Construction,Military Construction Project Listing,0
+339,"$27,000,000",MD,Military Construction,BRAC Projects 2005,0
+340,$0,INT,Military Construction,Family House Construction,0
+341,"$6,660,000",NC,Military Construction,Military Construction Project Listing,0
+342,"$18,000,000",CO,Military Construction,Military Construction Project Listing,0
+343,"$3,800,000",GA,Military Construction,BRAC Projects 2005,0
+344,"$13,000,000",VA,Military Construction,Military Construction Project Listing,0
+345,"$18,500,000",MI,Military Construction,Military Construction Project Listing,0
+346,"$55,000,000",NY,Military Construction,Military Construction Project Listing,0
+347,$0,INT,Military Construction,Family House Construction,0
+348,"$5,500,000",AR,Military Construction,Military Construction Project Listing,0
+349,"$1,500,000",TX,Military Construction,Military Construction Project Listing,0
+350,"$4,000,000",MO,Military Construction,Military Construction Project Listing,0
+351,"$12,800,000",KS,Military Construction,Military Construction Project Listing,0
+352,"$3,536,000",MN,Military Construction,Military Construction Project Listing,0
+353,"$13,650,000",MD,Military Construction,Military Construction Project Listing,0
+354,"$36,110,000",AL,Military Construction,BRAC Projects 2005,0
+355,"$22,300,000",INT,Military Construction,Military Construction Project Listing,0
+356,"$22,000,000",INT,Military Construction,Military Construction Project Listing,0
+357,"$7,700,000",IN,Military Construction,Military Construction Project Listing,0
+358,"$25,440,000",CA,Military Construction,Military Construction Project Listing,0
+359,"$23,389,000",VA,Military Construction,BRAC Projects 2005,0
+360,"$52,000,000",INT,Military Construction,Family House Construction,0
+361,"$15,500,000",INT,Military Construction,Military Construction Project Listing,0
+362,"$12,590,000",NC,Military Construction,Military Construction Project Listing,0
+363,$0,INT,Military Construction,Military Construction Project Listing,0
+364,"$49,200,000",IL,Military Construction,BRAC Projects 2005,0
+365,"$5,300,000",VA,Military Construction,Military Construction Project Listing,0
+366,"$130,000",TX,Military Construction,Military Construction Project Listing,0
+367,"$6,300,000",PA,Military Construction,Military Construction Project Listing,0
+368,"$185,000",OK,Energy & Water,Bureau of Reclamation,0
+369,"$31,980,000",CA,Military Construction,Military Construction Project Listing,0
+370,"$49,000,000",FL,Military Construction,Military Construction Project Listing,0
+371,"$900,000",RI,Military Construction,Military Construction Project Listing,0
+372,"$2,363,000",CO,Military Construction,BRAC Projects 2005,0
+373,"$12,200,000",AK,Military Construction,BRAC Projects 2005,0
+374,"$8,523,000",WI,Military Construction,Military Construction Project Listing,0
+375,"$2,427,000",KY,Military Construction,Military Construction Project Listing,0
+376,"$5,500,000",PA,Military Construction,Military Construction Project Listing,0
+377,"$711,000",NM,Military Construction,Military Construction Project Listing,0
+378,"$5,150,000",CA,Military Construction,BRAC Projects 2005,0
+379,"$15,524,000",FL,Military Construction,Military Construction Project Listing,0
+380,"$12,800,000",MA,Military Construction,Military Construction Project Listing,0
+381,"$14,000,000",TX,Military Construction,Military Construction Project Listing,0
+382,"$4,000,000",MD,Military Construction,Military Construction Project Listing,0
+383,"$25,100,000",FL,Military Construction,Military Construction Project Listing,0
+384,"$2,950,000",TX,Military Construction,Military Construction Project Listing,0
+385,"$16,800,000",FL,Military Construction,BRAC Projects 2005,0
+386,"$5,000,000",FL,Military Construction,Military Construction Project Listing,0
+387,"$4,501,000",CA,Military Construction,Military Construction Project Listing,0
+388,"$16,952,000",NE,Military Construction,Military Construction Project Listing,0
+389,"$7,700,000",OK,Military Construction,Military Construction Project Listing,0
+390,"$99,000,000",IL,Military Construction,Military Construction Project Listing,0
+391,"$3,300,000",WA,Military Construction,Military Construction Project Listing,0
+392,"$1,150,000",FL,Military Construction,BRAC Projects 2005,0
+393,"$21,000,000",CA,Military Construction,Military Construction Project Listing,0
+394,$0,IL,Military Construction,Military Construction Project Listing,0
+395,"$8,900,000",NH,Military Construction,Military Construction Project Listing,0
+396,"$9,900,000",NJ,Military Construction,Military Construction Project Listing,0
+397,"$33,650,000",CA,Military Construction,Military Construction Project Listing,0
+398,"$53,000,000",CO,Military Construction,Military Construction Project Listing,0
+399,"$52,069,000",MD,Military Construction,Military Construction Project Listing,0
+400,"$268,000",INT,State-Foreign Ops,Department of State,0
+401,"$50,000",UNK,State-Foreign Ops,Department of State,0
+402,"$496,000",DC,State-Foreign Ops,Department of State,0
+403,"$496,000",PA,State-Foreign Ops,Department of State,0
+404,"$407,000",INT,State-Foreign Ops,Department of State,0
+405,"$496,000",OR,State-Foreign Ops,Department of State,0
+406,"$19,342,000",HI,State-Foreign Ops,Department of State,0
+407,"$218,000",INT,State-Foreign Ops,Department of State,0
+408,"$694,000",MI,State-Foreign Ops,Department of State,0
+409,$0,UNK,State-Foreign Ops,Department of State,0
+410,"$94,000",UNK,State-Foreign Ops,Department of State,0
+411,"$139,000",WA,State-Foreign Ops,Department of State,0
+412,"$294,000",PA,Transportation and Housing & Urban Development,HUD,0
+413,"$294,000",NV,Transportation and Housing & Urban Development,HUD,0
+414,"$98,000",PA,Transportation and Housing & Urban Development,HUD,0
+415,"$686,000",NH,Transportation and Housing & Urban Development,HUD,0
+416,"$980,000",MI,Transportation and Housing & Urban Development,Transportation,0
+417,"$2,940,000",MS,Transportation and Housing & Urban Development,Transportation,0
+418,"$735,000",MS,Transportation and Housing & Urban Development,HUD,0
+419,"$49,000",NM,Transportation and Housing & Urban Development,HUD,0
+420,"$294,000",FL,Transportation and Housing & Urban Development,Transportation,0
+421,"$588,000",GA,Transportation and Housing & Urban Development,Transportation,0
+422,"$490,000",CA,Transportation and Housing & Urban Development,Transportation,0
+423,"$656,600",OH,Transportation and Housing & Urban Development,Transportation,0
+424,"$490,000",WA,Transportation and Housing & Urban Development,HUD,0
+425,"$49,000",PA,Transportation and Housing & Urban Development,HUD,0
+426,"$294,000",NY,Transportation and Housing & Urban Development,Transportation,0
+427,"$137,200",NC,Transportation and Housing & Urban Development,HUD,0
+428,"$588,000",KS,Transportation and Housing & Urban Development,Transportation,0
+429,"$98,000",NM,Transportation and Housing & Urban Development,HUD,0
+430,"$137,200",PA,Transportation and Housing & Urban Development,HUD,0
+431,"$98,000",OH,Transportation and Housing & Urban Development,HUD,0
+432,"$1,470,000",MS,Transportation and Housing & Urban Development,Transportation,0
+433,"$581,728",SD,Transportation and Housing & Urban Development,Transportation,0
+434,"$171,500",NC,Transportation and Housing & Urban Development,HUD,0
+435,"$490,000",TX,Transportation and Housing & Urban Development,Transportation,0
+436,"$980,000",WV,Transportation and Housing & Urban Development,Transportation,0
+437,"$196,000",WA,Transportation and Housing & Urban Development,HUD,0
+438,"$656,600",DE,Transportation and Housing & Urban Development,Transportation,0
+439,"$735,000",NC,Transportation and Housing & Urban Development,Transportation,0
+440,"$147,000",TN,Transportation and Housing & Urban Development,HUD,0
+441,"$490,000",LA,Transportation and Housing & Urban Development,Transportation,0
+442,"$147,000",MN,Transportation and Housing & Urban Development,HUD,0
+443,"$196,000",WA,Transportation and Housing & Urban Development,Transportation,0
+444,"$490,000",MS,Transportation and Housing & Urban Development,HUD,0
+445,"$49,000",IL,Transportation and Housing & Urban Development,HUD,0
+446,"$245,000",OK,Transportation and Housing & Urban Development,Transportation,0
+447,"$196,000",CA,Transportation and Housing & Urban Development,Transportation,0
+448,"$137,200",UT,Transportation and Housing & Urban Development,HUD,0
+449,"$1,470,000",WV,Transportation and Housing & Urban Development,Transportation,0
+450,"$882,000",OH,Transportation and Housing & Urban Development,Transportation,0
+451,"$539,000",MO,Transportation and Housing & Urban Development,HUD,0
+452,"$735,000",IL,Transportation and Housing & Urban Development,Transportation,0
+453,"$68,600,000",WA,Transportation and Housing & Urban Development,Transportation,0
+454,"$98,000",WV,Transportation and Housing & Urban Development,HUD,0
+455,"$196,000",WV,Transportation and Housing & Urban Development,HUD,0
+456,"$735,000",FL,Transportation and Housing & Urban Development,Transportation,0
+457,"$735,000",CA,Transportation and Housing & Urban Development,Transportation,0
+458,"$735,000",NY,Transportation and Housing & Urban Development,Transportation,0
+459,"$980,000",FL,Transportation and Housing & Urban Development,Transportation,0
+460,"$245,000",KY,Transportation and Housing & Urban Development,Transportation,0
+461,"$980,000",NV,Transportation and Housing & Urban Development,Transportation,0
+462,"$166,600",OH,Transportation and Housing & Urban Development,HUD,0
+463,"$200,000",SD,Transportation and Housing & Urban Development,Transportation,0
+464,"$196,000",MA,Transportation and Housing & Urban Development,HUD,0
+465,"$1,102,500",GA,Transportation and Housing & Urban Development,Transportation,0
+466,"$1,313,200",MI,Transportation and Housing & Urban Development,Transportation,0
+467,"$637,000",PA,Transportation and Housing & Urban Development,Transportation,0
+468,"$294,000",VA,Transportation and Housing & Urban Development,Transportation,0
+469,"$490,000",PA,Transportation and Housing & Urban Development,Transportation,0

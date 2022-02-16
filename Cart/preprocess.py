@@ -16,7 +16,7 @@ def preprocess():
 
     # Binarize committe and subcommittee codes
     # df = pd.read_csv("../Data/AllPotentialPork.csv")
-    df = pd.read_csv("../Data/Apollo1.csv")
+    df = pd.read_csv("../Data/Lazarus2.csv")
     # df1 = pd.ExcelFile("../Data/Apollo1.xlsx")
     # df = df1.parse(df1, "../Data/Apoll")
     print(df)
@@ -33,7 +33,7 @@ def preprocess():
     
     
 
-    one_hot_encoder_columns = ['State', 'Bill', 'Bill Section', 'Bill Subsection']
+    one_hot_encoder_columns = ['State', 'Bill', 'Bill Section']
     print(df.columns.values.tolist())
 
     #Getting rid of raw text
@@ -49,6 +49,9 @@ def preprocess():
     # The new features will be labled as sponsor_party_R, sponsor_party_D, sponsor_state_CA, sponsor_state_AZ, etc.
     #   and will take on binary values
     Xdf = pd.DataFrame(X.toarray(), columns=enc.get_feature_names(one_hot_encoder_columns))
+
+    Xdf.to_excel("../Data/OneHotEncoderCols.xlsx")
+    
 
     # Combine sponsor dataframe with that of the rest of the data
     df = df.join(Xdf).drop(['ID'], axis=1)

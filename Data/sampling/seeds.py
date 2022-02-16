@@ -23,31 +23,31 @@ rawData = pd.read_excel("./TCSEarmarks.xlsx")
 #print(getSample(rawData, "Bill", "Defense", 11610, 55))
 
 #Energy & Water
-print(getSample(rawData, "Bill", "Energy & Water", 11610, 62))
+#print(getSample(rawData, "Bill", "Energy & Water", 11610, 62))
 
 #Financial Services
-#print(getSample(rawData, "Bill", "Financial Services", 11610, 4))
+#print(getSample(rawData, "Bill", "Financial Services", 11610, 35))
 
 #Homeland Security 
 #print(getSample(rawData, "Bill", "Homeland Security", 11610, 4))
 
 #Interior
-#print(getSample(rawData, "Bill", "Interior", 11610, 4))
+#print(getSample(rawData, "Bill", "Interior", 11610, 20))
 
 #Labor-HHS-Education
-#print(getSample(rawData, "Bill", "Labor-HHS-Education", 11610, 4))
+#print(getSample(rawData, "Bill", "Labor-HHS-Education", 11610, 60))
 
 #Legislative Branch
-#print(getSample(rawData, "Bill", "Legislative Branch", 11610, 4))
+#print(getSample(rawData, "Bill", "Legislative Branch", 11610, 2))
 
 #Military Construction
-#print(getSample(rawData, "Bill", "Military Construction", 11610, 4))
+#print(getSample(rawData, "Bill", "Military Construction", 11610, 80)
 
 #State-Foreign Ops
-#print(getSample(rawData, "Bill", "State-Foreign Ops", 11610, 4))
+#print(getSample(rawData, "Bill", "State-Foreign Ops", 11610, 12))
 
 #Transporation and Housing & Urban Development
-#print(getSample(rawData, "Bill", "Transporation and Housing & Urban Development", 11610, 4))
+#print(getSample(rawData, "Bill", "Transporation and Housing & Urban Development", 11610, 61))
 
 
 #print(rawData.loc[rawData['Bill'] == "Ag-Rural Development-FDA"].index.tolist())
