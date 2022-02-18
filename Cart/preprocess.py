@@ -41,12 +41,10 @@ def getSample(df, col, value, seed, n, positive):
 
 def preprocess():
     # Binarize committe and subcommittee codes
-    df = pd.read_csv("../Data/AllPotentialPork.csv")
-    #df = pd.read_csv("../Data/Lazarus2.csv")
+    # df = pd.read_csv("../Data/AllPotentialPork.csv")
+    
     rawData = pd.read_excel("../Data/sampling/garbage.xlsx")
-    # df1 = pd.ExcelFile("../Data/Apollo1.xlsx")
-    # df = df1.parse(df1, "../Data/Apoll")
-    #print(len(rawData))
+
     
     #Ag-Rural Development-FDA
     agPos = getSample(rawData, "Bill", "Ag-Rural Development-FDA", 11610, 4, True)
@@ -146,7 +144,7 @@ def preprocess():
     #   and will take on binary values
     Xdf = pd.DataFrame(X.toarray(), columns=enc.get_feature_names(one_hot_encoder_columns))
 
-    Xdf.to_excel("../Data/OneHotEncoderCols.xlsx")
+    # Xdf.to_excel("../Data/OneHotEncoderCols.xlsx")
 
     # Combine sponsor dataframe with that of the rest of the data
     #df = df.join(Xdf).drop(['ID'], axis=1)
@@ -154,8 +152,6 @@ def preprocess():
     
     # Remove columns made redundant
     df = df.drop(one_hot_encoder_columns, axis=1)
-    #df.to_excel("help2.xlsx")
-    #df.to_excel("hybrid.xlsx")
     print("-----------------------One Hot Encoder Done-----------------------------------------")
 
     #df.to_csv("../Data/pretraining.csv")
@@ -173,6 +169,8 @@ def preprocess():
     global class_names
     class_names = list(y_data)
     return X_data, y_data
+
+####### Textual Analysis Functions Below Here #######
 
 def analyzeDollarSign(df):
     tempdf = df

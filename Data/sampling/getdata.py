@@ -41,15 +41,23 @@ def createUniqueIds(allData, posPork):
 
 def findNegativePork(allData, posPork):
 
+
+    '''
+    Note: It was this effort combined with manual data verification and 
+    manipulation in excel that provided the data found in "metphase.xlsx" 
+    which was then narrowed down in "garbage.xlsx" and ultimatley used 
+    to build the first prototype decision tree
+
+    Further noting, the manual coding process still contained 4 points
+    that had both a positive and negative earmark sample. The data loss
+    from the manual coding is to be the efforts of further improvement
+    in other branches/iterations of this research
+    '''
     #Original effort using SQL like logic 
     result = pd.concat([allData, posPork], axis=0, join="inner")
     #result = pd.merge(allData, posPork, on=["Description"])
     print(len(result))
-    result.to_csv("garbage2.csv")
-
-    #filter((lambda x: x))
-    # result = result.groupby(['Description'])
-    # #result.to_excel("metaphase.xlsx")
+    #result.to_excel("metaphase.xlsx")
     # print(result)
     
     
