@@ -40,11 +40,8 @@ def getSample(df, col, value, seed, n, positive):
 
 
 def preprocess():
-    # Binarize committe and subcommittee codes
-    # df = pd.read_csv("../Data/AllPotentialPork.csv")
     
-    rawData = pd.read_excel("../Data/sampling/garbage.xlsx")
-
+    rawData = pd.read_excel("../Data/garbage.xlsx")
     
     #Ag-Rural Development-FDA
     agPos = getSample(rawData, "Bill", "Ag-Rural Development-FDA", 11610, 4, True)
@@ -102,7 +99,6 @@ def preprocess():
     mcPos = getSample(rawData, "Bill", "Military Construction", 11610, 1, True)
     mcNeg = getSample(rawData, "Bill", "Military Construction", 11610, 80, False)
     df = pd.concat([df, mcPos, mcNeg])
-    
 
     # # #State-Foreign Ops
     sfoPos = getSample(rawData, "Bill", "State-Foreign Ops", 11610, 1, True)
@@ -114,12 +110,13 @@ def preprocess():
     # thudNeg = getSample(rawData, "Bill", "Transporation and Housing & Urban Development", 11610, 61, False)
     # df = pd.concat([df, thudPos, thudNeg])
 
-    print(len(df))
-    print(df)
+    df.to_excel("samplesused.xlsx")
+    #print(len(df))
+    #print(df)
     
     
-    df = df.drop(["ID", "House Request", "Senate Request", "Pre-reduction Amt. (Omni)", "Final Amount", "Budget Request", "Description", "City/Location", "County", "Bill Section", "Bill Subsection", "Project Heading (Defense Bill Only)", "House Requesting Member(s)", "House Party", "House State", "Dist.", "Senate Requesting Member(s)", "Senate Party", "Senate State", "Presidential Earmarks", "Undisclosed", "Intended Recipient or Location", "Notes"], axis=1)
-    #df.to_excel("help.xlsx")
+    #df = df.drop(["ID", "House Request", "Senate Request", "Pre-reduction Amt. (Omni)", "Final Amount", "Budget Request", "Description", "City/Location", "County", "Bill Section", "Bill Subsection", "Project Heading (Defense Bill Only)", "House Requesting Member(s)", "House Party", "House State", "Dist.", "Senate Requesting Member(s)", "Senate Party", "Senate State", "Presidential Earmarks", "Undisclosed", "Intended Recipient or Location", "Notes"], axis=1)
+    #df.to_excel("manualtrainingdata.xlsx")
 
     #Analyze the bill text
     #df = analyzeDollarSign(df)
@@ -127,7 +124,7 @@ def preprocess():
     #cleanText(df, True)
     
 
-    one_hot_encoder_columns = ["State", "Bill"]
+    #one_hot_encoder_columns = ["State", "Bill"]
     #print(df.columns.values.tolist())
 
     #Getting rid of raw text
@@ -136,30 +133,32 @@ def preprocess():
     #print(df)
 
     # Transform sponsor columns into one-hot arrays so decision tree can use categorical variables
-    enc = OneHotEncoder(handle_unknown='ignore')
-    X = enc.fit_transform(df[one_hot_encoder_columns])
+    #enc = OneHotEncoder(handle_unknown='ignore')
+    #X = enc.fit_transform(df[one_hot_encoder_columns])
 
     # Create dataframe with sponsor columns and their corresponding feature titles
     # The new features will be labled as sponsor_party_R, sponsor_party_D, sponsor_state_CA, sponsor_state_AZ, etc.
     #   and will take on binary values
-    Xdf = pd.DataFrame(X.toarray(), columns=enc.get_feature_names(one_hot_encoder_columns))
+    #Xdf = pd.DataFrame(X.toarray(), columns=enc.get_feature_names(one_hot_encoder_columns))
 
     # Xdf.to_excel("../Data/OneHotEncoderCols.xlsx")
 
     # Combine sponsor dataframe with that of the rest of the data
     #df = df.join(Xdf).drop(['ID'], axis=1)
-    df = df.join(Xdf)
+    #df = df.join(Xdf)
     
     # Remove columns made redundant
-    df = df.drop(one_hot_encoder_columns, axis=1)
-    print("-----------------------One Hot Encoder Done-----------------------------------------")
+    #df = df.drop(one_hot_encoder_columns, axis=1)
+    #print("-----------------------One Hot Encoder Done-----------------------------------------")
 
+    
     #df.to_csv("../Data/pretraining.csv")
     # X_data = df.drop(['is_pork'], axis=1) 
     # y_data = df[['is_pork']]
 
-    temp_df = pd.read_excel("./help.xlsx")
-    # temp_df.drop(["ID", "State", "Bill"], axis=1)
+    #This is what is being used for training and testing
+    temp_df = pd.read_excel("./manualtrainingdata.xlsx")
+    #temp_df.drop(["ID", "State", "Bill"], axis=1)
     X_data = temp_df.drop(['is_pork'], axis=1)
     y_data = temp_df[['is_pork']]
 

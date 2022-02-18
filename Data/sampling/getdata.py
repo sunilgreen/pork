@@ -89,7 +89,7 @@ positivePork = pd.read_csv("./PositivePork.csv")
 #print(len(allData))
 #verifySize(allData)
 #verifySize(positivePork)
-realData = pd.read_excel("./garbage.xlsx")
+realData = pd.read_excel("../garbage.xlsx")
 print(realData)
 
 #findNegativePork(allData, positivePork)

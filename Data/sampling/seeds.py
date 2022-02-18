@@ -10,7 +10,30 @@ def getSample(df, col, value, seed, n):
     points.sort()
     return points
 
-rawData = pd.read_excel("./TCSEarmarks.xlsx")
+def getPoints(seed, n, start, stop):
+
+    point_list = []
+    for i in range(start, stop):
+        point_list.append(i)
+
+    random.seed(seed)
+    points = random.sample(point_list, n)
+    print("######### Random Sample #########")
+    print(points)
+    print("######### End Random Sample #########")
+    return points
+
+'''
+The samples below are used for the manual identification of data.
+Once issues with data cleaning are resolved this will be automated.
+Only used for an intitial run. Because of the under-represenation of
+pork in the combined data (assuming 10% pork per CAGW), samples
+are taken from each seperate part of the data.
+'''
+getPoints(100, 27, 0, 12816) #Getting negative samples
+getPoints(100, 3, 12816, 13233) #Getting positive samples
+
+#rawData = pd.read_excel("./TCSEarmarks.xlsx")
 # print(rawData.columns.values)
 
 #Ag-Rural Development-FDA
