@@ -13,12 +13,12 @@ np.set_printoptions(threshold=sys.maxsize)
 X, y = preprocess()
 clf = train(X, y)
 
-testing = pd.read_csv("../Data/Atlas2.csv") #Atlas 1 provided four 0000 identifiers, regardless of order of Is_Pork and Is_Not_Pork
+# testing = pd.read_csv("../Data/Atlas2.csv") #Atlas 1 provided four 0000 identifiers, regardless of order of Is_Pork and Is_Not_Pork
 
-testY = testing[["is_pork"]]
-testing = testing.drop(["is_pork"], axis=1)
+# testY = testing[["is_pork"]]
+# testing = testing.drop(["is_pork"], axis=1)
 
-print(clf.predict(testing))
+# print(clf.predict(testing))
 
 
 
