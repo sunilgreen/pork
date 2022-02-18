@@ -15,7 +15,7 @@ def getSample(df, col, value, seed, n, positive):
 
     if (positive == True):
         specificdf = df.loc[(df[col].str.contains(value) & df['is_pork'] == 1)]
-        print(specificdf)
+        #print(specificdf)
     else:
         specificdf = df.loc[(df[col].str.contains(value) & df['is_pork'] == 0)]
 
@@ -110,7 +110,7 @@ def preprocess():
     # thudNeg = getSample(rawData, "Bill", "Transporation and Housing & Urban Development", 11610, 61, False)
     # df = pd.concat([df, thudPos, thudNeg])
 
-    df.to_excel("samplesused.xlsx")
+    #df.to_excel("samplesused.xlsx")
     #print(len(df))
     #print(df)
     

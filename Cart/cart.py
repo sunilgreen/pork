@@ -22,8 +22,20 @@ clf = train(X, y)
 # End of vestiges 
 
 
-#manualtest = pd.read_excel("")
-#print(clf.predict(manualtest))
+manualtest = pd.read_excel("manualtestingdata.xlsx")
+y_data = manualtest['is_pork']
+manualtest = manualtest.drop(['is_pork'], axis=1)
+results = (clf.predict(manualtest))
+
+print(y_data)
+score = 0
+for i in range(0, len(manualtest)):
+    print(results[i], y_data[i])
+    if (results[i] == y_data[i]):
+        score += 1
+
+print(score)
+print((score/30) *100)
 
 
 
